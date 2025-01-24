@@ -11,7 +11,7 @@ int main()
     scanf("%d",&n);
     while(i<=n){
         sum = sum +i;
-        i = i +1;
+        i++;
     }
     printf("\n the sum of numbers from %d to %d is:%d",m,n,sum);
     return 0;
