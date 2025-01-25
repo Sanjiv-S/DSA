@@ -16,3 +16,4 @@ int main(){
     printf("\n avg of first n numbers:%2.f",avg);
     return 0;
 }
+
